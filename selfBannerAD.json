@@ -1,17 +1,17 @@
 {
     "location": {
         "zh-hant": {
-            "title": "把脉自测",
+            "title": "AI把脉",
             "content": "免费",
             "actionName": "安装"
         },
         "en": {
-            "title": "把脉自测",
+            "title": "AI把脉",
             "content": "FREE",
             "actionName": "Get"
         },
         "zh-hans": {
-            "title": "把脉自测",
+            "title": "AI把脉",
             "content": "免費",
             "actionName": "安装"
         }
